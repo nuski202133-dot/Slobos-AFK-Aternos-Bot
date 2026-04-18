@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "PixelCrafttSMP.aternos.me",
+    "port": 54560,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
